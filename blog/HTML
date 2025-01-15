@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Drop it!</title>
+    <img src="DB.jpg" alt="Fotografía de la banda mexicana Disco Bahía en el Lunario Nacional en 2024">
+    
+</head>
+
+<body>
+    
+    <h1>Drop it!</h1>
+        <p> ¡Bienvenidas, bienvenidos y bienvenides a Drop it!</p>
+    
+    <h2>¿Qué es?</h2>
+        <p> Es un espacio para compartir la música desde la perspectiva de ser publico, es especifico sobre los conciertos de la esena local pero no excluyendo a las bandas ya consolidadas.
+        <div>Mi nombre es Yolotl soy Gestora Intercultural y fotografa fan de la música hecha por mujeres y en especial del lado llamado indie, capturo momentos desde equipo profesional pero también con el celular, lo especial se hace desde la visión individual, el equipo es un extra.</div>
+        </p>
+
+    <h3>Te comparto mi top 5 de canciones del año pasado, espero lo disfutes </h3>
+        <ul>
+            <li> No one Notice- The Marías</li>
+                <frame> <iframe width="560" height="315" src="https://www.youtube.com/embed/Qn8F_u0vBNI?si=ZrjcaPKaoB4-R0tr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </frame>
+
+           
+            <li> Lavish- Twenty one pilots</li>
+            <frame> <iframe width="560" height="315" src="https://www.youtube.com/embed/flYgpeWsC2E?si=Lb3Gm6wh547V0jF5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></frame> 
+
+           
+            <li> Do You Fell- AURORA</li>
+                <frame> <iframe width="560" height="315" src="https://www.youtube.com/embed/32pvHRR4zsw?si=DSkAzrywucXesfVo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </frame>
+            
+            <li> Juna- Clairo</li>
+                <frame><iframe width="560" height="315" src="https://www.youtube.com/embed/TsxAVFQkXQ8?si=1Fb7ckgipy4cXBHn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </frame>
+           
+            <li> hongo- Babas tutsipop</li>
+                <frame><iframe width="560" height="315" src="https://www.youtube.com/embed/O63WAu7QiiU?si=fA1vcxcl7sJ4m2C9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></frame>
+
+        </ul>
+
+    
+</body>
+
+</html>
